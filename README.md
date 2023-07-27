@@ -1,6 +1,6 @@
 # IPL-Analysis-Dashboard
 IPL Analysis Dashboard using Power BI and mysql   
-                                                                                                                       
+![model](IPL Analysis Dashboard.png)                                                                                                                       
 Steps followed:                                                                                                                                                          
 -Requirement gathering                                                                                                                                                   
 -Stakeholders in project                                                                                                                                                 

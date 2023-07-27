@@ -1,6 +1,6 @@
 # IPL-Analysis-Dashboard
 IPL Analysis Dashboard using Power BI and mysql   
-![model](IPL Analysis Dashboard.png)                                                                                                                      
+![IPL Analysis Dashboard](https://github.com/Abhisheksabha/IPL-Analysis-Dashboard/assets/129185540/2f63e1e2-e31f-4fed-9c8d-f1e103e1469c)                                                                                                                     
 Steps followed:                                                                                                                                                          
 -Requirement gathering                                                                                                                                                   
 -Stakeholders in project                                                                                                                                                 
@@ -31,5 +31,5 @@ Power BI functionalities used:
 -Creating and Formatting Charts                                                                                                                                        
 -Creating different shapes and formatting                                                                                                                              
 -Generating Insights from charts                                                                                                                                       
--Export Report
+-Export Report                                                                                                                                                          (Resource : Data Tutorials)
 
